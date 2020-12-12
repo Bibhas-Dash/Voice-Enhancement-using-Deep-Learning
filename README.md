@@ -4,7 +4,7 @@ Here I have attempted to design a DL pipeline for audio enhancement. This is bas
 
 # Introduction:
 
-While dealing with real time audio speech signals, we are always concerened about the various types of noises that are added to the original signal which results in corruption of the original clean signal. In order to retrieve a better quality signals, it is essential to enhance these signals by eliminating the noises present in them. Here this process is attempted to achieve through Deep Learning. 
+While dealing with real time audio speech signals, we are always concerned about the various types of noises that are added to the original signal which results in corruption of the original clean signal. In order to retrieve a better-quality signal, it is essential to enhance these signals by eliminating the noises present in them. Here this process is attempted to achieve through Deep Learning. 
 
 # Dataset:
 
